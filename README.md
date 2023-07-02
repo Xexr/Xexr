@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Xexr
-- 👀 I’m building <a href="https://dypt.app">dypt.app</a>
-- 📫 You can reach me <a href="https://twitter.com/Xexr">@Xexr</a>
+- 👀 I’m building <a href="https://dypt.app" target="_blank">dypt.app</a>
+- 📫 You can reach me <a href="https://twitter.com/Xexr" target="_blank">@Xexr</a>
