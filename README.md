@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Xexr
-- 👀 I’m interested in web dev and web3
+- 👀 I’m building <a href="https://dypt.app">dypt.app</a>
 - 📫 You can reach me <a href="https://twitter.com/Xexr">@Xexr</a>
