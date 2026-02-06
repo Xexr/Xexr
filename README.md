@@ -2,4 +2,3 @@
 - 👀 I’m building:
   - <a href="https://dypt.app" target="_blank">dypt.app</a> super powered tasks
   - <a href="https://makeacraft.com" target="_blank">makeacraft.com</a> personalized craft ideas for kids and parents
-- 📫 You can reach me <a href="https://twitter.com/Xexr" target="_blank">@Xexr</a>
