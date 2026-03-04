@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xexr
+- 👋 Hi, I’m Dane
 - 👀 I’m building:
   - <a href="https://dypt.app" target="_blank">dypt.app</a> super powered tasks
   - <a href="https://makeacraft.com" target="_blank">makeacraft.com</a> personalized craft ideas for kids and parents
